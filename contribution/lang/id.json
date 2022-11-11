@@ -378,7 +378,7 @@
  	 	},
  	 	"chatPreview": {
  	 	 	"notConnected": {
- 	 	 	 	"trans": "Sistem obrolan tidak terhubung",
+ 	 	 	 	"trans": "Tidak bisa terhubung ke sistem obrolan",
  	 	 	 	"eng": "chat system not connected"
  	 	 	}
  	 	},
@@ -419,7 +419,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Meninggal",
+ 	 	 	 	"trans": "Mati",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -651,7 +651,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Upgrade",
+ 	 	 	 	"trans": "Meningkatkan slot",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
@@ -662,7 +662,7 @@
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
- 	 	 	 	"trans": "Lengkapi",
+ 	 	 	 	"trans": "melengkapi",
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"cantEquip": {
@@ -670,11 +670,11 @@
  	 	 	 	"eng": "Your level is too low for this item"
  	 	 	},
  	 	 	"unequip": {
- 	 	 	 	"trans": "Lepas",
+ 	 	 	 	"trans": "melepaskan",
  	 	 	 	"eng": "Unequip"
  	 	 	},
  	 	 	"use": {
- 	 	 	 	"trans": "Gunakan",
+ 	 	 	 	"trans": "menggunakan",
  	 	 	 	"eng": "Use"
  	 	 	},
  	 	 	"unlock": {
